@@ -1,0 +1,47 @@
+.container {
+    padding-top: 50px;
+    padding-bottom: 50px;
+    background-color: #f5f4fa;
+}
+
+.profile {
+    margin-right: auto;
+    margin-left: auto;
+    /* overflow: hidden; */
+    width: 350px;
+    text-align: center;
+
+    font-size: 18px;
+    font-weight: 600;
+    color: #979296;
+
+    border: 1px solid #b6b8c3;
+    box-shadow: 0px 2px 1px rgba(0, 0, 0, 0.2), 0px 1px 1px rgba(0, 0, 0, 0.14),
+      0px 1px 3px rgba(0, 0, 0, 0.12);
+    border-radius: 4px 4px 4px 4px;
+    background-color: #fff;
+  }
+
+  .description {
+    padding: 40px;
+  }
+
+  .avatar {
+    width: 60%;
+    margin-right: auto;
+    margin-left: auto;
+    border-radius: 50%;
+    border: 2px solid #979296;
+  }
+
+  .name {
+    margin-top: 20px;
+    margin-bottom: 20px;
+    color: #000000;
+    font-weight: 700;
+    font-size: 24px;
+  }
+
+  .tag {
+    margin-bottom: 10px;
+  }
